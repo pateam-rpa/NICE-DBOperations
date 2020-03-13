@@ -1,0 +1,15 @@
+C:\Users\martijn\Documents\GitHub\NICE-StoredProcedures\Direct.DBOps.Library\obj\Debug\Direct.DBOps.Library.csprojAssemblyReference.cache
+C:\Users\martijn\Documents\GitHub\NICE-StoredProcedures\Direct.DBOps.Library\bin\Debug\Direct.DBOps.Library.dll
+C:\Users\martijn\Documents\GitHub\NICE-StoredProcedures\Direct.DBOps.Library\bin\Debug\Direct.DBOps.Library.pdb
+C:\Users\martijn\Documents\GitHub\NICE-StoredProcedures\Direct.DBOps.Library\bin\Debug\Direct.Shared.dll
+C:\Users\martijn\Documents\GitHub\NICE-StoredProcedures\Direct.DBOps.Library\bin\Debug\Direct.Shared.Library.dll
+C:\Users\martijn\Documents\GitHub\NICE-StoredProcedures\Direct.DBOps.Library\bin\Debug\log4net.dll
+C:\Users\martijn\Documents\GitHub\NICE-StoredProcedures\Direct.DBOps.Library\bin\Debug\Newtonsoft.Json.dll
+C:\Users\martijn\Documents\GitHub\NICE-StoredProcedures\Direct.DBOps.Library\bin\Debug\Direct.Interface.dll
+C:\Users\martijn\Documents\GitHub\NICE-StoredProcedures\Direct.DBOps.Library\bin\Debug\Direct.WebServiceProxy.dll
+C:\Users\martijn\Documents\GitHub\NICE-StoredProcedures\Direct.DBOps.Library\bin\Debug\RESTSender.dll
+C:\Users\martijn\Documents\GitHub\NICE-StoredProcedures\Direct.DBOps.Library\bin\Debug\Microsoft.mshtml.dll
+C:\Users\martijn\Documents\GitHub\NICE-StoredProcedures\Direct.DBOps.Library\bin\Debug\Microsoft.Web.Services2.dll
+C:\Users\martijn\Documents\GitHub\NICE-StoredProcedures\Direct.DBOps.Library\obj\Debug\Direct.DBOps.Library.csproj.CopyComplete
+C:\Users\martijn\Documents\GitHub\NICE-StoredProcedures\Direct.DBOps.Library\obj\Debug\Direct.DBOps.Library.dll
+C:\Users\martijn\Documents\GitHub\NICE-StoredProcedures\Direct.DBOps.Library\obj\Debug\Direct.DBOps.Library.pdb
